@@ -1,0 +1,17 @@
+Logins Details : 
+Admin Login : 
+admin/Test@12345
+ 
+Doctor Login :
+john@test.com / Test@1234
+ 
+Receptionist Login :
+maria@gmail.com /Test@1234
+ 
+Staff Login :
+Clerk :
+jack@gmail.com / Test@123 
+ 
+Patient Login 
+jeir@gmail.com / Test@123
+peter@gmail.com / Test@123
